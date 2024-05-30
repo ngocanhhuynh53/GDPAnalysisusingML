@@ -1,5 +1,5 @@
 ## Problem Definition
-In this notebook, we will create time serie driven forecasting engine based on 2 time series models. The dataset we are using is the 'VIETNAM macroeconomics data'. It is a quarterly dataset starting from 2015 and goes on till April 2024. The target variable is 'Tổng sản phẩm trong nước theo giá so sánh' and there 18 features which can help us forecast. The dataset can be found https://vbma.org.vn/vi/market-data/gdp-industry-group
+In this notebook, we will create time serie driven forecasting engine based on 3 time series models. The dataset we are using is the 'VIETNAM macroeconomics data'. It is a quarterly dataset starting from 2015 and goes on till April 2024. The target variable is 'Tổng sản phẩm trong nước theo giá so sánh' and there 18 features which can help us forecast. The dataset can be found https://vbma.org.vn/vi/market-data/gdp-industry-group
 
 
 We will first do exploratory data analysis on the data, we do the following:
